@@ -1,5 +1,5 @@
 #!/bin/bash
-#courtesy of vollnixx's wordpress
+#edit of vollnixx's script on wordpress
 TEXTURE=2048x512
  
 #cleanup sheet.png and sheet folder

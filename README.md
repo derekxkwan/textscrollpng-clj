@@ -10,6 +10,10 @@ Emacs - run cider, open `core.clj` and press `C-c C-k` to evaluate the file.
 
 REPL - run `(require 'textscrollpng-clj.core)`.
 
+## sheet.sh
+
+borrowed from vollnixx's wordpress to create a sprite sheet from quil output using `convert`
+
 ## License
 
 Copyright © 2016 FIXME
